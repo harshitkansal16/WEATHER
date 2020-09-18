@@ -57,7 +57,7 @@ input[type="submit"]{
   padding: 5px 0;
   margin-top: auto;
   text-align: center;
-  color: cornsilk;
+  color: blue;
   position:relative;
 }
 
@@ -65,7 +65,7 @@ input[type="submit"]{
   text-align: center;
   margin:40px 0;
   font-size:20px;
-  color: cornsilk;
+  color: blue;
   position:relative;
   }
 
